@@ -2,9 +2,9 @@
 
 This is a very simple AWS Lambda program that connects my button to the IFTTT/Maker channel to allow the AWS IoT button to control my hue lights.
 
-*A short press turns off all hue lights
-*A double press turns them on to a random color
-*A long press starts a slow color cycle.
+- A short press turns off all hue lights
+- A double press turns them on to a random color
+- A long press starts a slow color cycle.
 
 Code was adapted from: https://www.hackster.io/reanimationxp/amazon-re-invent-dash-button-aws-ifttt-infinibutton-daaf5d?ref=part&ref_id=13747&offset=0 (That webpage had a few errors that kept the lambda program from working.)
 
